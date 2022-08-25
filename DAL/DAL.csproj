@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1F90B10B-9E2C-41B2-A17A-F70688D8CB06}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DAL</RootNamespace>
+    <AssemblyName>DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataBase\News.cs" />
+    <Compile Include="DataBase\NewsAgencyContext.cs" />
+    <Compile Include="DataBase\NewsCategory.cs" />
+    <Compile Include="DataBase\User.cs" />
+    <Compile Include="Migrations\201701291118195_FirstMigration.cs" />
+    <Compile Include="Migrations\201701291118195_FirstMigration.Designer.cs">
+      <DependentUpon>201701291118195_FirstMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201701291120516_AddMaxLengthForUser.cs" />
+    <Compile Include="Migrations\201701291120516_AddMaxLengthForUser.Designer.cs">
+      <DependentUpon>201701291120516_AddMaxLengthForUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201701291138301_AddImageToNews.cs" />
+    <Compile Include="Migrations\201701291138301_AddImageToNews.Designer.cs">
+      <DependentUpon>201701291138301_AddImageToNews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201701300618308_AddCategory.cs" />
+    <Compile Include="Migrations\201701300618308_AddCategory.Designer.cs">
+      <DependentUpon>201701300618308_AddCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201701310608227_AddShowFieldToNews.cs" />
+    <Compile Include="Migrations\201701310608227_AddShowFieldToNews.Designer.cs">
+      <DependentUpon>201701310608227_AddShowFieldToNews.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201702041734194_ChangeLengthOfPasswordTo60.cs" />
+    <Compile Include="Migrations\201702041734194_ChangeLengthOfPasswordTo60.Designer.cs">
+      <DependentUpon>201702041734194_ChangeLengthOfPasswordTo60.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201702042223508_ChangeUserNameLength.cs" />
+    <Compile Include="Migrations\201702042223508_ChangeUserNameLength.Designer.cs">
+      <DependentUpon>201702042223508_ChangeUserNameLength.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202208251025279_m1.cs" />
+    <Compile Include="Migrations\202208251025279_m1.Designer.cs">
+      <DependentUpon>202208251025279_m1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201701291118195_FirstMigration.resx">
+      <DependentUpon>201701291118195_FirstMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201701291120516_AddMaxLengthForUser.resx">
+      <DependentUpon>201701291120516_AddMaxLengthForUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201701291138301_AddImageToNews.resx">
+      <DependentUpon>201701291138301_AddImageToNews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201701300618308_AddCategory.resx">
+      <DependentUpon>201701300618308_AddCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201701310608227_AddShowFieldToNews.resx">
+      <DependentUpon>201701310608227_AddShowFieldToNews.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201702041734194_ChangeLengthOfPasswordTo60.resx">
+      <DependentUpon>201702041734194_ChangeLengthOfPasswordTo60.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201702042223508_ChangeUserNameLength.resx">
+      <DependentUpon>201702042223508_ChangeUserNameLength.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202208251025279_m1.resx">
+      <DependentUpon>202208251025279_m1.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

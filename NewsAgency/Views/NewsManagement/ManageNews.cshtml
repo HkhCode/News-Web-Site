@@ -1,0 +1,76 @@
+﻿@model NewsAgency.Models.NewsListViewModel
+@{
+
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+@section Scripts{
+
+}
+@section Links{
+    @Html.Partial((string)ViewBag.PanelName)
+
+}
+@section Body{
+    <h2>مدیریت اخبار سایت</h2>
+    <div class="container">
+        @using (Html.BeginForm())
+        {
+
+
+            <div class="row">
+                <div class="col-md-2 col-sm-12">
+                    عنوان
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    @Html.TextBox("title", "", new { @class = "form-control" })
+                </div>
+                <div class="col-md-3 col-sm-12">
+                    <input type="submit" class="btn btn-danger" value="جستجو" />
+                </div>
+            </div>
+        }
+        @if (Model.NewsList != null && Model.NewsList.Count() != 0)
+        {
+
+
+            <table class="table table-responsive table-striped">
+                <thead>
+                    <tr>
+
+                        <th>عنوان</th>
+                        <th>خلاصه </th>
+                        <th>گزارشگر</th>
+                        <th>عملیات</th>
+                    </tr>
+
+                    @foreach (var item in Model.NewsList)
+                    {
+                        <tr>
+
+                            <td>@item.Title</td>
+                            <td>@item.Summary.Substring(0, item.Summary.Length > 15 ? 15 : item.Summary.Length) ...</td>
+                            <td>@item.ReporterName</td>
+
+                            <td>
+                                @Html.ActionLink(@item.show ? "غیرفعال" : "فعال", "ChangeShowValueOfNewsWithId", new { @id = item.Id, title = @ViewBag.title }, new { @class = "btn btn-info" })
+                                @Html.ActionLink("مشاهده", "ShowNewsForConfirm", new { Id = @item.Id }, new { @class = "btn btn-success" })
+
+
+                            </td>
+                        </tr>
+                    }
+
+                </thead>
+            </table>
+
+            <div>
+                @Html.PageLinks(Model.PagingInfo, x => Url.Action("ManageNews", new { page = x, title = @ViewBag.title }))
+            </div>
+        }
+        else
+        {
+            <div class="label label-danger">خبری وجود ندارد</div>
+        }
+    </div>
+}
+

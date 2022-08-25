@@ -1,0 +1,93 @@
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\NewsAgency.dll.config
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\NewsAgency.dll
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\NewsAgency.pdb
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Webpages.Deployment.dll
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Webpages.dll
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Webpages.Razor.dll
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Webpages.xml
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Webpages.Deployment.xml
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Webpages.Razor.xml
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\obj\Debug\NewsAgency.dll
+c:\users\user\documents\visual studio 2013\Projects\NewsAgency\NewsAgency\obj\Debug\NewsAgency.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\Ninject.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\Ninject.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\Ninject.Web.Common.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\Ninject.Web.Mvc.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\WebActivatorEx.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\Ninject.Web.Common.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\Ninject.Web.Mvc.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\obj\Debug\NewsAgency.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\DAL.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\DAL.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\NewsAgency\bin\EntityFramework.SqlServer.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\NewsAgency.dll.config
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\NewsAgency.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\NewsAgency.pdb
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\DAL.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\EntityFramework.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\EntityFramework.SqlServer.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\Ninject.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\Ninject.Web.Common.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\Ninject.Web.Mvc.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Helpers.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Mvc.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Razor.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Webpages.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Webpages.Razor.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\WebActivatorEx.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\DAL.pdb
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\EntityFramework.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\EntityFramework.SqlServer.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\Ninject.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\Ninject.Web.Common.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\Ninject.Web.Mvc.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Razor.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Webpages.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Webpages.Razor.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Helpers.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\bin\System.Web.Mvc.xml
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\obj\Debug\NewsAgency.csprojResolveAssemblyReference.cache
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\obj\Debug\NewsAgency.dll
+C:\Users\Nima\Desktop\NewsAgency\NewsAgency\obj\Debug\NewsAgency.pdb
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\NewsAgency.dll.config
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\NewsAgency.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\NewsAgency.pdb
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\DAL.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\EntityFramework.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\EntityFramework.SqlServer.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\Ninject.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\Ninject.Web.Common.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\Ninject.Web.Mvc.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Helpers.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Mvc.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Razor.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Webpages.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\WebActivatorEx.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\DAL.pdb
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\EntityFramework.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\EntityFramework.SqlServer.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\Ninject.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\Ninject.Web.Common.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\Ninject.Web.Mvc.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Razor.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Webpages.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Helpers.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\bin\System.Web.Mvc.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\obj\Debug\NewsAgency.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\obj\Debug\NewsAgency.pdb
+D:\Projects\Job\C#\Asp.net\NewsAgency\NewsAgency\obj\Debug\NewsAgency.csprojResolveAssemblyReference.cache

@@ -1,0 +1,52 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\bin\Debug\DAL.dll.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\bin\Debug\DAL.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\bin\Debug\DAL.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\obj\Debug\DAL.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\obj\Debug\DAL.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\obj\Debug\DAL.Migrations.FirstMigration.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddMaxLengthForUser.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddImageToNews.resources
+C:\Users\user\Documents\Visual Studio 2013\Projects\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddCategory.resources
+C:\Users\user\documents\visual studio 2013\Projects\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddShowFieldToNews.resources
+C:\Users\Nima\Desktop\NewsAgency\DAL\bin\Debug\DAL.dll.config
+C:\Users\Nima\Desktop\NewsAgency\DAL\bin\Debug\DAL.dll
+C:\Users\Nima\Desktop\NewsAgency\DAL\bin\Debug\DAL.pdb
+C:\Users\Nima\Desktop\NewsAgency\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nima\Desktop\NewsAgency\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nima\Desktop\NewsAgency\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nima\Desktop\NewsAgency\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.Migrations.FirstMigration.resources
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddMaxLengthForUser.resources
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddImageToNews.resources
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddCategory.resources
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddShowFieldToNews.resources
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.Migrations.ChangeLengthOfPasswordTo60.resources
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.dll
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.pdb
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Nima\Desktop\NewsAgency\DAL\obj\Debug\DAL.Migrations.ChangeUserNameLength.resources
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\bin\Debug\DAL.dll.config
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\bin\Debug\DAL.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\bin\Debug\DAL.pdb
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\bin\Debug\EntityFramework.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\bin\Debug\EntityFramework.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.Migrations.FirstMigration.resources
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddMaxLengthForUser.resources
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddImageToNews.resources
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddCategory.resources
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.Migrations.AddShowFieldToNews.resources
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.Migrations.ChangeLengthOfPasswordTo60.resources
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.Migrations.ChangeUserNameLength.resources
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.dll
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.pdb
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Projects\Job\C#\Asp.net\NewsAgency\DAL\obj\Debug\DAL.Migrations.m1.resources
